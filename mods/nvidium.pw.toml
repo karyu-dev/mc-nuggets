@@ -1,0 +1,13 @@
+name = "Nvidium"
+filename = "nvidium-0.4.4-beta6-26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/VqbIfKxa/nvidium-0.4.4-beta6-26.1.jar"
+hash-format = "sha512"
+hash = "699635ac9d338179a3758e2e89fc21a8d4c8a98dbaea0ce3009ae8f9903698b28f22eb175131cc8ef4dc8566592c1db6f176429a69dfe6abe8b0e10eefc72c02"
+
+[update]
+[update.modrinth]
+mod-id = "SfMw2IZN"
+version = "VqbIfKxa"

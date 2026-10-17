@@ -1,0 +1,13 @@
+name = "MCnuggets"
+author = "karyu-dev"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d07aa5f07d9cdfd2be95e1ea68dd8a7d3044790c6256269c5ba93746fb910ae4"
+
+[versions]
+fabric = "0.20.0"
+minecraft = "26.1.2"
