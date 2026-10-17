@@ -1,0 +1,13 @@
+name = "Traveler's Titles"
+filename = "TravelersTitles-26.1.2-Fabric-6.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JtifUr64/versions/lRpJBRMb/TravelersTitles-26.1.2-Fabric-6.1.0.jar"
+hash-format = "sha512"
+hash = "75deddcad3298cea44e1f4aabb0f59dd8a394251ea0b9409a608c942771dcac2cd3469dfcdff5d3cdc19730212af33b2c25cb808d765283445490c20ea9b5737"
+
+[update]
+[update.modrinth]
+mod-id = "JtifUr64"
+version = "lRpJBRMb"
