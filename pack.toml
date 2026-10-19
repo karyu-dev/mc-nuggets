@@ -1,12 +1,12 @@
 name = "MCnuggets"
 author = "karyu-dev"
-version = "0.1.2"
+version = "0.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "63d38b12d7a09196cf2130dfe55f9d234ceb65d25afc8712391db7864e3c4634"
+hash = "b77de5d454f703247a34b55f43d9b9e51f7adf2dbd584d66801db76f15ac0099"
 
 [versions]
 fabric = "0.20.0"
