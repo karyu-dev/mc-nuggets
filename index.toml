@@ -391,6 +391,11 @@ hash = "cbd980e76b429c7b273bebef49d348b833779f56d174d328d391effd82218a75"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "0596c43054860d3e872ff6de1c927602867753ee1b95c294e84474d38bb49b36"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
 metafile = true
@@ -556,6 +561,11 @@ hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "c61b8049eb33872425c133917b6e49a2e57025b7c7bce59045530a2932ab523b"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
@@ -713,4 +723,134 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "6162ddcd5987fb2e90b9821dbd6420602224d5f73ba84792026feec17407da71"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "07d8c8c9e8b3f53b4b0ca048685e633a57e07d3fe631e203cf08451b8aaf1cdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen.pw.toml"
+hash = "21b42249f56ec23df473c2db30a89190ecaeb72bca66b13f8cc8eae93d196837"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "58f05194c0b0c31990de7a884612dc09de0bb0ae3df6a7a84f58fcd7d3a05e6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "c26f8da8b6f013fb7e917e29fc6ae783eb379c539da12d9d61196bc762fd26e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "51896ae8b7d9a2fe05deaed1e214d4bbd904fb450bc068a84e53816e2eaa1873"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "e8eff570f4a54585cf71484df068ddace99cbdeae07006de5a45b48cb5cca5ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "4d611d2bbd96a65ee45a5f07b430780a58a6ed795754cb9c4c5357650cc57d47"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "9bec6ecb763a81e7ddd77ce07f354c287085f585eb1e8d2442d93520975eae7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "3874d5d4499148996d5e11f9bee74f669f0e5901440edf7aab3c5e55d14f1829"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-food.pw.toml"
+hash = "994220e42be5e64f925c753c660ce9c7cbaf1d6059428fd7f664ce8feca659c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "ce33dc64d9b27f2540d7cc3f8aa26931a5fc7f1912097ee37ba3fe851dfe7f09"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "f5bafd1fbb787341af6c231f2a735ff3c44b3b1db076e297ecc5e323703cd7fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "0232bca4bc7efb1eff13c0c44799ac10292e084dcc776698dfc1698382409fde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "f917f523f840a66d9cab3a98ab9dce9c17dd9e5fa7be13cccc4c2da4a020cd29"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "3ea639ea86e1b444d00d2d2801386a206f6d7d82484b739fe0ec2d1c63e60c6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "e807f1aad31513adbc43b774a972d298ddfaf400d8526a6f223345ec7b29ea11"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "0b0fe47812a988c1c371bacef1ddc43cdf08d1746354341e954e54b834a29411"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f25a34e083b05071711bb97464a0bd6c2f5fc6e4c0bc650ee2d133508c21a868"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "8e9066219882825d46a80f11057be2eacde6245780b42c49b8c8c3cb3921c893"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "124adb8dc2e059324dc6b4d80d2b381ab92181a96abe1c2a7c58964c17903bfe"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "0f2f26736a3be534e447b12150be9688c56d0cdc14167c20aa41444fca90ca97"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "7801eaf07dee51314cdd4461d4aeaa671961cd5acc40df579805e22a535527a0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "f8be2023c5a1d6446cca4be7d659ec4b3ca2dcd8a3b97b1593c3c22328d5fd5b"
 metafile = true
